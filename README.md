@@ -1,7 +1,7 @@
 
-### Hi there, I'm Harry - aka [Hazzahxl] 👋
+### Hi there, I'm Harry 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Hazzahxl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Hazzahxl)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HarryLudemanns?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fharryludemann&screen_name=HarryLudemanns)
 
 
 **Languages and Tools:** 
