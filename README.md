@@ -3,7 +3,6 @@
 
 **Languages and Tools:** 
 
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-black?logo=csharp&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/-Go-black?logo=Go&style=social)&nbsp;&nbsp;
