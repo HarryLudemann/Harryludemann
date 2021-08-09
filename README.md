@@ -1,7 +1,7 @@
 
-### Hi there, I'm Harry 👋
+# *Hi there, I'm Harry 👋*
 
-**Languages and Tools:** 
+### *Languages, Tools & Stats:* 
 
 ![C#](https://img.shields.io/badge/-CSharp-black?logo=csharp&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
@@ -21,5 +21,15 @@
 ![Harrys Github Stats](https://github-readme-stats.vercel.app/api?username=harryludemann&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryludemann&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harryludemann.harryludemann)
+### *Public Repositorys:*
+| Repo Name     | Size  | Commit Activity | Maintained | Last Commit  | Lines of Code |
+| ------------- |:--------:| ----------: | :-------:     | -------------: | :-------------: |  
+| [Trader-CSharp](https://github.com/HarryLudemann/Trader-CSharp) | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Trader-CSharp)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Trader-CSharp) | ![Maintenance](https://img.shields.io/maintenance/yes/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Trader-CSharp)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Trader-CSharp) |
+| [Django-Discord](https://github.com/HarryLudemann/Django-Discord)|   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Django-Discord)   | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Django-Discord)| ![Maintenance](https://img.shields.io/maintenance/yes/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Django-Discord)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Django-Discord) |
+| [Data-Analytics](https://github.com/HarryLudemann/Data-Analytics)|    ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Data-Analytics)   | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Data-Analytics)| ![Maintenance](https://img.shields.io/maintenance/yes/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Data-Analytics)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Data-Analytics) |
+| [Django-Base](https://github.com/HarryLudemann/Django-Base)   | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Django-Base)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Django-Base) | ![Maintenance](https://img.shields.io/maintenance/no/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Django-Base)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Django-Base) |
+| [Job-Search](https://github.com/HarryLudemann/Job-Search)    |   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Job-Search)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Job-Search)| ![Maintenance](https://img.shields.io/maintenance/no/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Job-Search)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Job-Search) |
+| [Discord-Chatbot](https://github.com/HarryLudemann/Job-Search) |    ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Discord-Chatbot)   | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Discord-Chatbot)| ![Maintenance](https://img.shields.io/maintenance/no/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Discord-Chatbot)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Discord-Chatbot) |
 
+![Powered by - V-Energy](https://img.shields.io/badge/Powered_by-V--Energy-2ea44f)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harryludemann.harryludemann)
