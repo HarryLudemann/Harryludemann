@@ -19,7 +19,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon&style=social)&nbsp;&nbsp;
 
 ![Harrys Github Stats](https://github-readme-stats.vercel.app/api?username=harryludemann&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryludemann&hide=TeX&layout=compact)
 
 ### *Public Repositorys:*
 | Repo Name     | Size  | Commit Activity | Maintained | Last Commit  | Lines of Code |
