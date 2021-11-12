@@ -22,7 +22,7 @@
 ![Harrys Github Stats](https://github-readme-stats.vercel.app/api?username=harryludemann&count_private=true&show_icons=true&include_all_commits=true)
 
 ### *Public Project Repositorys:*
-| Repo Name     | Size  | Commit Activity | Maintained | Last Commit  | Lines of Code |
+| Repository    | Size  | Commit Activity | Maintained | Last Commit  | Lines of Code |
 | ------------- |:--------:| ----------: | :-------:     | -------------: | :-------------: |  
 | [Ngoto](https://github.com/HarryLudemann/Ngoto) | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Ngoto)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Ngoto) | ![Maintenance](https://img.shields.io/maintenance/yes/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Ngoto)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Ngoto) |
 | [Metlink-Python](https://github.com/HarryLudemann/Metlink-Python) | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HarryLudemann/Metlink-Python)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HarryLudemann/Metlink-Python) | ![Maintenance](https://img.shields.io/maintenance/yes/2021)   | ![GitHub last commit](https://img.shields.io/github/last-commit/HarryLudemann/Metlink-Python)  | ![Lines of code](https://img.shields.io/tokei/lines/github/HarryLudemann/Metlink-Python) |
