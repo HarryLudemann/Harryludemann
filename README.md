@@ -1,7 +1,7 @@
 <!-- # *Hi there, I'm Harry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>* -->
 
 <!-- ### *Favourite Languages, Tools & Stats:*  -->
-<img src="/top.svg"/>
+<img style="cursor: pointer;" src="/top.svg"/>
 <h1>
   Hi there, I'm
   <a target="_blank">Harry Ludemann</a >
@@ -12,7 +12,7 @@
 </h1>
 <div align="center">
     <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=harryludemann&show_icons=true&theme=radical&hide_border=true">
-    <img width="auto" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=harryludemann&hide_border=true&theme=radical" />
+    <img width="auto" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=harryludemann&hide_border=true&theme=radical" /><br>
     <!-- <h2><b>Favourite Languages, Tools & Stats:</b></h2> -->
     <a target="_blank">
         <img
