@@ -4,7 +4,7 @@
 <img style="cursor: pointer;" src="/top.svg"/>
 <h1 style="color:orange;">
   Hi there, I'm
-  <a target="_blank">Hazzah (Harry Ludemann)</a >
+  <a target="_blank">Harry</a >
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="25px"
