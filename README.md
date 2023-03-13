@@ -13,7 +13,7 @@
 <div align="center">
     <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=harryludemann&show_icons=true&theme=radical&hide_border=true">
     <img width="auto" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=harryludemann&hide_border=true&theme=radical" /><br>
-    <!-- <h2><b>Favourite Languages, Tools & Stats:</b></h2> -->
+    <!-- <h2><b>Favourite Languages, Tools & Stats:</b></h2>
     <a target="_blank">
         <img
         src="https://cdn.worldvectorlogo.com/logos/c-1.svg"
@@ -78,11 +78,11 @@
         height="40"
         />
     </a>
-    <!-- <br>
+    <br>
     <a>
         <h2><b>Public Project Repositorys:</b></h2>
-    </a> -->
-</div>
+    </a>-->
+</div>  
 
 <!-- ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryludemann&show_icons=true&theme=radical&hide_border=true) -->
 
